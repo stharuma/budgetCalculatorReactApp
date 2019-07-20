@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ExpenceItem = () => {
+const ExpenseItem = () => {
     return (
         <div>
             Hello from ExpenceItem
@@ -8,4 +8,4 @@ const ExpenceItem = () => {
     )
 }
 
-export default ExpenceItem
+export default ExpenseItem

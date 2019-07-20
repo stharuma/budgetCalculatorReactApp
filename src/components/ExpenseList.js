@@ -1,8 +1,8 @@
 //rafc
 import React from 'react'
-import Item from './ExpenceItem'
+import Item from './ExpenseItem'
 
-const ExpenceList = () => {
+const ExpenseList = () => {
     return (
         <div>
             Hello from ExpenceForm
@@ -11,4 +11,4 @@ const ExpenceList = () => {
     )
 }
 
-export default ExpenceList
+export default ExpenseList
